@@ -5,5 +5,5 @@ This implementation is based on exercises from:
 
 *Damien Lamberton, Bernard Lapeyre.*  
 **Introduction au calcul stochastique appliqué à la finance.**  
-3rd edition, Ellipses, 2012.
+
 
